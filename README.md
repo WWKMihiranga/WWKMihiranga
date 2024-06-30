@@ -1,16 +1,12 @@
-## Hi there 👋
+![Design and Development](https://drive.google.com/file/d/1MqRCoFXGac7hEpXjmisv8jEZ6ZDuOb1W/view?usp=sharing) 
 
-<!--
-**WWKMihiranga/WWKMihiranga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Kavindu Mihiranga
+Hi there! I'm a software engineering student at IIT, focused on mobile development with Flutter. I love combining my coding skills with my passion for design, especially in UI and UX. I'm always exploring new ways to make apps that are both functional and beautiful. Let's connect and create something great together! 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills and Experience
+* ⚛ React
+* 📱 Flutter
+* 🎯 Dart
+* </> HTML, CSS, JS
+* ♨️ Java
+* 🐍 Python
