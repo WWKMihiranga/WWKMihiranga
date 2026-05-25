@@ -122,21 +122,21 @@ I care about systems that are not just clever, but **interpretable, reliable, an
 
 ## 📜 &nbsp; Tomes Authored
 
-<p align="center"><b>
-Two specialisations, one practitioner. Each project links to its full grimoire (repo) and, where available, a live demo.</b>
+<p align="center">
+Two specialisations, one practitioner. Each project links to its full grimoire (repo) and, where available, a live demo.
 </p>
 
-### &nbsp;&nbsp;<h3>🧠 &nbsp;Machine Learning & AI</h3>
+### &nbsp;&nbsp;🧠 &nbsp;Machine Learning & AI
 
 <table>
   <tr>
-    <td width="50%" valign="top">
+    <td width="50%" valign="top" align="center">
       <h4>🎙️ StutterLens</h4>
       <p><em>Interpretable Neuro-Symbolic Stuttering Detection</em></p>
       <p>BiLSTM acoustic encoder fused with three differentiable, clinically-interpretable rules via an adaptive sigmoid gating network. Four-stage weak-supervision pipeline on SEP-28k. <b>0.623 macro F1</b>, <b>50.5 ms onset RMSE</b>.</p>
       <p><sub><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" /> <img src="https://img.shields.io/badge/Wav2Vec2-FFD21E?style=flat&logo=huggingface&logoColor=black" /> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white" /></sub></p>
     </td>
-    <td width="50%" valign="top">
+    <td width="50%" valign="top" align="center">
       <h4>🤖 Enterprise Knowledge Orchestrator</h4>
       <p><em>Multi-Agent RAG with Self-Correction</em></p>
       <p>LangGraph state machine over five specialised agents (Router · NL-to-SQL · RAG · Synthesizer · Evaluator) with a conditional retry loop, anti-hallucination guards, and SSE-streamed pipeline visualisation. <b>88% pass rate</b> on a 17-question eval harness.</p>
@@ -144,13 +144,13 @@ Two specialisations, one practitioner. Each project links to its full grimoire (
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="50%" valign="top" align="center">
       <h4>🚗 SteerSense</h4>
       <p><em>Uncertainty-Aware Deep Learning for Self-Driving</em></p>
       <p>Benchmarked four CNNs for behavioural cloning; dropout-regularised NVIDIA variant won at <b>MAE 0.143 / R² 0.74</b>. Monte Carlo Dropout flagged low-confidence predictions with ~19% higher error. TFLite quantisation gave an <b>11.7× size reduction and ~20× faster inference</b>.</p>
       <p><sub><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" /> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white" /> <img src="https://img.shields.io/badge/TFLite-FF6F00?style=flat&logo=tensorflow&logoColor=white" /></sub></p>
     </td>
-    <td width="50%" valign="top">
+    <td width="50%" valign="top" align="center">
       <h4>📖 Emotional Audiobook</h4>
       <p><em>Emotion-Aware Text-to-Speech Pipeline</em></p>
       <p>7-class DistilRoBERTa emotion classifier + custom anchor-and-compress summariser, routed across XTTS-v2 (narration) and Bark (top-20% dramatic segments). Outputs an MP3 with synced SRT and an emotion-arc cover image.</p>
@@ -159,17 +159,17 @@ Two specialisations, one practitioner. Each project links to its full grimoire (
   </tr>
 </table>
 
-### &nbsp;&nbsp;<h3>🌐 &nbsp;Full-Stack Engineering</h3>
+### &nbsp;&nbsp;🌐 &nbsp;Full-Stack Engineering
 
 <table>
   <tr>
-    <td width="50%" valign="top">
+    <td width="50%" valign="top" align="center">
       <h4>💍 Wedding Canvas</h4>
       <p><em>Multi-tenant SaaS for bespoke wedding sites</em></p>
       <p>Row-level-security multi-tenant PostgreSQL model, ~144-bit signed invitation tokens, edge middleware for custom-domain rewrites. Real-time RSVPs, in-browser audio/video guestbook, Stripe Checkout with signed webhooks, full i18n (EN · PT · SI · HI).</p>
       <p><sub><img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" /> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" /> <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat&logo=stripe&logoColor=white" /></sub></p>
     </td>
-    <td width="50%" valign="top">
+    <td width="50%" valign="top" align="center">
       <h4>🛒 Westminster Shopping</h4>
       <p><em>Microservices e-commerce platform</em></p>
       <p>Five Spring Boot services (gateway · auth · product · cart · order) with database-per-service, Flyway migrations, and JWT centralised at the gateway. Discount engine reproducing coursework spec (£85.79 → £60.05). One-command Docker Compose spin-up.</p>
@@ -177,13 +177,13 @@ Two specialisations, one practitioner. Each project links to its full grimoire (
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="50%" valign="top" align="center">
       <h4>🏥 Welfare Benefits Portal</h4>
       <p><em>Production medical & welfare claims system</em></p>
       <p>Pure-function eligibility engine across four benefit categories with integer-cent money handling, re-verification at approval to prevent stale approvals, PostgreSQL RLS on every table, append-only audit logging, private signed-URL bill storage, strict CSP.</p>
       <p><sub><img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" /> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" /> <img src="https://img.shields.io/badge/Zod-3E67B1?style=flat&logo=zod&logoColor=white" /></sub></p>
     </td>
-    <td width="50%" valign="top">
+    <td width="50%" valign="top" align="center">
       <h4>🎨 Art Gallery SL</h4>
       <p><em>Curated marketplace for Sri Lankan artists</em></p>
       <p>Artists · artworks · follows · inquiries · reviews · points-and-badges modelled in PostgreSQL with RLS everywhere. Gamification points awarded only by DB triggers (uncounterfeitable from the client). Token-driven Tailwind design system, Lighthouse 90+.</p>
@@ -198,29 +198,12 @@ Two specialisations, one practitioner. Each project links to its full grimoire (
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2D1B4E,100:7B2CBF&height=2&section=header" alt="divider" />
 </p>
 
-## 🔮 &nbsp; THE PENSIEVE
+## 🔮 &nbsp; The Pensieve
 
 <p align="center">
-  <a href="https://github.com/WWKMihiranga">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=WWKMihiranga&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=B388FF&icon_color=B388FF&text_color=E0E0E0&bg_color=0D1117" alt="GitHub stats" />
-    <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=WWKMihiranga&hide_border=true&background=0D1117&stroke=7B2CBF&ring=B388FF&fire=FFA500&currStreakNum=E0E0E0&sideNums=E0E0E0&currStreakLabel=B388FF&sideLabels=B388FF&dates=E0E0E0" alt="GitHub streak" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/WWKMihiranga">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WWKMihiranga&layout=compact&hide_border=true&title_color=B388FF&text_color=E0E0E0&bg_color=0D1117&langs_count=10" alt="Top languages" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=WWKMihiranga&theme=algolia&no-frame=true&no-bg=true&margin-w=10&row=1&column=7" alt="GitHub trophies" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=WWKMihiranga&bg_color=0D1117&color=B388FF&line=7B2CBF&point=ffffff&area=true&hide_border=true" alt="Activity graph" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=WWKMihiranga&theme=default" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=WWKMihiranga&theme=default&hide_border=false&border=E4E2E2&background=FFFFFF&stroke=7B2CBF&ring=7B2CBF&fire=7B2CBF&currStreakNum=24292F&sideNums=24292F&currStreakLabel=7B2CBF&sideLabels=7B2CBF&dates=57606A" alt="GitHub streak" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=WWKMihiranga&theme=default" alt="Most used languages" />
 </p>
 
 <br />
