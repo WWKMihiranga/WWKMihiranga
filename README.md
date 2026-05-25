@@ -38,16 +38,15 @@
 ## 🧙‍♂️ &nbsp; THE SORTING HAT
 
 ```yaml
-name:        W.W. Kavindu Mihiranga
-location:    Aluthwala, Galle 🇱🇰
-studying:    BSc (Hons) Computer Science | University of Westminster
-graduating:  September 2026
-focus:
-  - Machine Learning & Applied AI (NLP | speech | vision | LLM agents)
-  - Full-stack engineering (React | Next.js | Spring Boot | FastAPI)
-currently:   Shipping production ML systems and multi-tenant SaaS
-interests:   Interpretable AI | neuro-symbolic models | clean architecture
-fun-fact:    Sorted into the wizarding-world fan club long before Stack Overflow
+Name:        W.W. Kavindu Mihiranga
+Location:    Aluthwala, Galle 🇱🇰
+Studying:    BSc (Hons) Computer Science | University of Westminster
+Graduating:  September 2026
+Focus:       - Machine Learning & Applied AI (NLP | speech | vision | LLM agents)
+             - Full-stack engineering (React | Next.js | Spring Boot | FastAPI)
+Currently:   Shipping production ML systems and multi-tenant SaaS
+Interests:   Interpretable AI | neuro-symbolic models | clean architecture
+Fun-fact:    Believes every production bug has a Horcrux hidden somewhere in the codebase
 ```
 
 I am a final-year Computer Science undergraduate who enjoys building **two kinds of magic** - production-grade **ML/AI systems** (neuro-symbolic models, multi-agent RAG, emotion-aware TTS) and **full-stack web platforms** (multi-tenant SaaS, microservices e-commerce, row-level-security portals). 
