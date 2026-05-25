@@ -12,7 +12,7 @@
 
 <!-- 🐈‍⬛ WIZARD CAT - site mascot -->
 <p align="center">
-  <img src="Wizard cat hero.jpg" alt="Wizard cat with a diamond staff" width="200" style="border-radius: 12px;" />
+  <img src="Wizard cat hero.jpg" alt="Wizard cat with a diamond staff" width="250" style="border-radius: 12px;" />
 </p>
 
 <!-- ✨ TYPING ANIMATION -->
@@ -143,20 +143,6 @@ Two specialisations, one practitioner. Each project links to its full grimoire (
       <p><sub><img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" /> <img src="https://img.shields.io/badge/LangGraph-0A2540?style=flat&logo=langchain&logoColor=white" /> <img src="https://img.shields.io/badge/ChromaDB-FF6F61?style=flat&logo=databricks&logoColor=white" /></sub></p>
     </td>
   </tr>
-  <tr>
-    <td width="50%" valign="top" align="center">
-      <h4>🚗 SteerSense</h4>
-      <p><em>Uncertainty-Aware Deep Learning for Self-Driving</em></p>
-      <p>Benchmarked four CNNs for behavioural cloning; dropout-regularised NVIDIA variant won at <b>MAE 0.143 / R² 0.74</b>. Monte Carlo Dropout flagged low-confidence predictions with ~19% higher error. TFLite quantisation gave an <b>11.7× size reduction and ~20× faster inference</b>.</p>
-      <p><sub><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" /> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white" /> <img src="https://img.shields.io/badge/TFLite-FF6F00?style=flat&logo=tensorflow&logoColor=white" /></sub></p>
-    </td>
-    <td width="50%" valign="top" align="center">
-      <h4>📖 Emotional Audiobook</h4>
-      <p><em>Emotion-Aware Text-to-Speech Pipeline</em></p>
-      <p>7-class DistilRoBERTa emotion classifier + custom anchor-and-compress summariser, routed across XTTS-v2 (narration) and Bark (top-20% dramatic segments). Outputs an MP3 with synced SRT and an emotion-arc cover image.</p>
-      <p><sub><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" /> <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black" /> <img src="https://img.shields.io/badge/Coqui%20XTTS-2C5530?style=flat" /></sub></p>
-    </td>
-  </tr>
 </table>
 
 ### &nbsp;&nbsp;🌐 &nbsp;Full-Stack Engineering
@@ -164,30 +150,16 @@ Two specialisations, one practitioner. Each project links to its full grimoire (
 <table>
   <tr>
     <td width="50%" valign="top" align="center">
-      <h4>💍 Wedding Canvas</h4>
-      <p><em>Multi-tenant SaaS for bespoke wedding sites</em></p>
-      <p>Row-level-security multi-tenant PostgreSQL model, ~144-bit signed invitation tokens, edge middleware for custom-domain rewrites. Real-time RSVPs, in-browser audio/video guestbook, Stripe Checkout with signed webhooks, full i18n (EN · PT · SI · HI).</p>
-      <p><sub><img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" /> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" /> <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat&logo=stripe&logoColor=white" /></sub></p>
+      <h4>🎨 Art Gallery SL</h4>
+      <p><em>Curated marketplace for Sri Lankan artists</em></p>
+      <p>Artists · artworks · follows · inquiries · reviews · points-and-badges modelled in PostgreSQL with RLS everywhere. Gamification points awarded only by DB triggers (uncounterfeitable from the client). Token-driven Tailwind design system, Lighthouse 90+.</p>
+      <p><sub><img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" /> <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" /></sub></p>
     </td>
     <td width="50%" valign="top" align="center">
       <h4>🛒 Westminster Shopping</h4>
       <p><em>Microservices e-commerce platform</em></p>
       <p>Five Spring Boot services (gateway · auth · product · cart · order) with database-per-service, Flyway migrations, and JWT centralised at the gateway. Discount engine reproducing coursework spec (£85.79 → £60.05). One-command Docker Compose spin-up.</p>
       <p><sub><img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white" /> <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" /></sub></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top" align="center">
-      <h4>🏥 Welfare Benefits Portal</h4>
-      <p><em>Production medical & welfare claims system</em></p>
-      <p>Pure-function eligibility engine across four benefit categories with integer-cent money handling, re-verification at approval to prevent stale approvals, PostgreSQL RLS on every table, append-only audit logging, private signed-URL bill storage, strict CSP.</p>
-      <p><sub><img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" /> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" /> <img src="https://img.shields.io/badge/Zod-3E67B1?style=flat&logo=zod&logoColor=white" /></sub></p>
-    </td>
-    <td width="50%" valign="top" align="center">
-      <h4>🎨 Art Gallery SL</h4>
-      <p><em>Curated marketplace for Sri Lankan artists</em></p>
-      <p>Artists · artworks · follows · inquiries · reviews · points-and-badges modelled in PostgreSQL with RLS everywhere. Gamification points awarded only by DB triggers (uncounterfeitable from the client). Token-driven Tailwind design system, Lighthouse 90+.</p>
-      <p><sub><img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" /> <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" /></sub></p>
     </td>
   </tr>
 </table>
