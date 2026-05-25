@@ -12,7 +12,7 @@
 
 <!-- 🐈‍⬛ WIZARD CAT - site mascot -->
 <p align="center">
-  <img src="Wizard cat hero.jpg" alt="Wizard cat with a diamond staff" width="250" style="border-radius: 12px;" />
+  <img src="Wizard cat hero.jpg" alt="Wizard cat with a diamond staff" width="200" style="border-radius: 12px;" />
 </p>
 
 <!-- ✨ TYPING ANIMATION -->
