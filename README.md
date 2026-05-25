@@ -1,4 +1,4 @@
-<!-- ============================================================== -->
+<img width="451" height="50" alt="image" src="https://github.com/user-attachments/assets/28f1c2c8-5400-4b6c-8cc9-88cf0b242c8d" /><!-- ============================================================== -->
 <!--             KAVINDU MIHIRANGA · GITHUB PROFILE README           -->
 <!--   Replace `WWKMihiranga` everywhere with your actual GitHub -->
 <!--   username before committing. Drop the image files into an      -->
@@ -59,7 +59,7 @@ I care about systems that are not just clever, but **interpretable, reliable, an
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2D1B4E,100:7B2CBF&height=2&section=header" alt="divider" />
 </p>
 
-## 🪄 &nbsp; Spells & Incantations
+## 🪄 &nbsp; SPELLS & INCANTATIONS
 
 #### &nbsp;&nbsp;⌨️ &nbsp;Languages
 <p>
@@ -119,7 +119,7 @@ I care about systems that are not just clever, but **interpretable, reliable, an
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2D1B4E,100:7B2CBF&height=2&section=header" alt="divider" />
 </p>
 
-## 📜 &nbsp; Tomes Authored
+## 📜 &nbsp; TOMES AUTHORED
 
 <p align="center">
 Two specialisations, one practitioner. Each project links to its full grimoire (repo) and, where available, a live demo.
@@ -169,7 +169,7 @@ Two specialisations, one practitioner. Each project links to its full grimoire (
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2D1B4E,100:7B2CBF&height=2&section=header" alt="divider" />
 </p>
 
-## 🔮 &nbsp; The Pensieve
+## 🔮 &nbsp; THE PENSIEVE
 
 <p align="center">
   <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=WWKMihiranga&theme=default" alt="GitHub stats" />
@@ -183,7 +183,7 @@ Two specialisations, one practitioner. Each project links to its full grimoire (
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2D1B4E,100:7B2CBF&height=2&section=header" alt="divider" />
 </p>
 
-## 🏰 &nbsp; Order of Merlin
+## 🏰 &nbsp; ORDER OF MERLIN
 
 <div align="center">
 
