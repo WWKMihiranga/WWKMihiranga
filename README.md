@@ -1,10 +1,3 @@
-<img width="451" height="50" alt="image" src="https://github.com/user-attachments/assets/28f1c2c8-5400-4b6c-8cc9-88cf0b242c8d" /><!-- ============================================================== -->
-<!--             KAVINDU MIHIRANGA · GITHUB PROFILE README           -->
-<!--   Replace `WWKMihiranga` everywhere with your actual GitHub -->
-<!--   username before committing. Drop the image files into an      -->
-<!--   `assets/` folder at the repo root (paths used below).          -->
-<!-- ============================================================== -->
-
 <!-- 🪄 ANIMATED HEADER BANNER -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2D1B4E,50:5A189A,100:7B2CBF&height=220&section=header&text=Kavindu%20Mihiranga&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%C2%B7%20ML%20%2F%20AI%20%C2%B7%20Full-Stack&descAlignY=60&descSize=18&animation=fadeIn" alt="header banner" />
