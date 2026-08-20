@@ -11,8 +11,7 @@
 <!-- ✨ TYPING ANIMATION -->
 <p align="center">
   <a href="https://github.com/WWKMihiranga">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=B388FF&center=true&vCenter=true&width=620&lines=Computer+Science+%40+University+of+Westminster;Building+ML%2FAI+systems+and+full-stack+products;Casting+spells+with+PyTorch%2C+FastAPI+%26+Next.js;Interpretable%2C+reliable%2C+production-ready+AI" alt="Typing SVG" />
-  </a>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=B388FF&center=true&vCenter=true&width=620&lines=Computer+Science+%40+University+of+Westminster;Building+ML%2FAI+systems+and+full-stack+products;Casting+spells+with+PyTorch%2C+FastAPI+%26+Next.js;Interpretable%2C+reliable%2C+production-ready+AI;Not+your+typical+vibe+coder;I+actually+read+the+docs+%F0%9F%98%8C" alt="Typing SVG" />
 </p>
 
 <!-- 📎 QUICK-ACCESS BADGES / SOCIALS -->
