@@ -127,12 +127,14 @@ Two specialisations, one practitioner. Each project links to its full grimoire (
       <p><em>Interpretable Neuro-Symbolic Stuttering Detection</em></p>
       <p>BiLSTM acoustic encoder fused with three differentiable, clinically-interpretable rules via an adaptive sigmoid gating network. Four-stage weak-supervision pipeline on SEP-28k. <b>0.623 macro F1</b>, <b>50.5 ms onset RMSE</b>.</p>
       <p><sub><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" /> <img src="https://img.shields.io/badge/Wav2Vec2-FFD21E?style=flat&logo=huggingface&logoColor=black" /> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white" /></sub></p>
+      <h4></h4>
     </td>
     <td width="50%" valign="top" align="center">
       <h4>🤖 Enterprise Knowledge Orchestrator</h4>
       <p><em>Multi-Agent RAG with Self-Correction</em></p>
       <p>LangGraph state machine over five specialised agents (Router · NL-to-SQL · RAG · Synthesizer · Evaluator) with a conditional retry loop, anti-hallucination guards, and SSE-streamed pipeline visualisation. <b>88% pass rate</b> on a 17-question eval harness.</p>
       <p><sub><img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" /> <img src="https://img.shields.io/badge/LangGraph-0A2540?style=flat&logo=langchain&logoColor=white" /> <img src="https://img.shields.io/badge/ChromaDB-FF6F61?style=flat&logo=databricks&logoColor=white" /></sub></p>
+       <h4></h4>
     </td>
   </tr>
 </table>
@@ -146,12 +148,14 @@ Two specialisations, one practitioner. Each project links to its full grimoire (
       <p><em>Curated marketplace for Sri Lankan artists</em></p>
       <p>Artists · artworks · follows · inquiries · reviews · points-and-badges modelled in PostgreSQL with RLS everywhere. Gamification points awarded only by DB triggers (uncounterfeitable from the client). Token-driven Tailwind design system, Lighthouse 90+.</p>
       <p><sub><img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" /> <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" /></sub></p>
+       <h4></h4>
     </td>
     <td width="50%" valign="top" align="center">
       <h4>🛒 Westminster Shopping</h4>
       <p><em>Microservices e-commerce platform</em></p>
       <p>Five Spring Boot services (gateway · auth · product · cart · order) with database-per-service, Flyway migrations, and JWT centralised at the gateway. Discount engine reproducing coursework spec (£85.79 → £60.05). One-command Docker Compose spin-up.</p>
       <p><sub><img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white" /> <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" /></sub></p>
+       <h4></h4>
     </td>
   </tr>
 </table>
