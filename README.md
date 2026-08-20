@@ -32,17 +32,17 @@
 
 ```yaml
 Name:        W.W. Kavindu Mihiranga
-Location:    Aluthwala, Galle 🇱🇰
+Location:    Galle, Sri Lanaka
 Studying:    BSc (Hons) Computer Science | University of Westminster
 Graduating:  September 2026
 Focus:       - Machine Learning & Applied AI (NLP | speech | vision | LLM agents)
-             - Full-stack engineering (React | Next.js | Spring Boot | FastAPI)
+             - Full-stack engineering (React | Next.js | Spring Boot)
 Currently:   Shipping production ML systems and multi-tenant SaaS
 Interests:   Interpretable AI | neuro-symbolic models | clean architecture
 Fun-fact:    Believes every production bug has a Horcrux hidden somewhere in the codebase
 ```
 
-I am a final-year Computer Science undergraduate who enjoys building **two kinds of magic** - production-grade **ML/AI systems** (neuro-symbolic models, multi-agent RAG, emotion-aware TTS) and **full-stack web platforms** (multi-tenant SaaS, microservices e-commerce, row-level-security portals). 
+I am a Software Engineer who enjoys building **two kinds of magic** - production-grade **ML/AI systems** (neuro-symbolic models, multi-agent RAG, emotion-aware TTS) and **full-stack web platforms** (multi-tenant SaaS, microservices e-commerce, row-level-security portals). 
 I care about systems that are not just clever, but **interpretable, reliable, and well-tested**.
 
 <br />
